@@ -1,0 +1,121 @@
+id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs
+1,2021,Kolkata,2021-04-17,League,JC Buttler,"Eden Gardens, Kolkata",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,6,152
+2,2024,Bengaluru,2024-04-11,League,SP Narine,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,150
+3,2023,Delhi,2023-04-12,League,MS Dhoni,"Arun Jaitley Stadium, Delhi",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,wickets,6,123
+4,2021,Chennai,2021-04-20,League,SV Samson,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajasthan Royals,wickets,8,134
+5,2023,Kolkata,2023-04-16,League,RA Jadeja,"Eden Gardens, Kolkata",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,53,195
+6,2024,Bengaluru,2024-04-13,League,B Kumar,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,48,149
+7,2022,Jaipur,2022-04-15,League,GJ Maxwell,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3,163
+8,2023,Chennai,2023-04-10,League,Prabhsimran Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,6,173
+9,2022,Mumbai,2022-04-28,League,HH Pandya,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,8,162
+10,2024,Chennai,2024-04-21,League,RM Patidar,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore,wickets,4,149
+11,2023,Ahmedabad,2023-04-14,League,SP Narine,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,runs,4,154
+12,2024,Chennai,2024-04-25,League,JM Bairstow,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,7,160
+13,2022,Mumbai,2022-04-24,League,Rashid Khan,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,9,109
+14,2021,Hyderabad,2021-04-16,League,GJ Maxwell,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,17,202
+15,2024,Jaipur,2024-04-18,League,K Rabada,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,10,160
+16,2024,Delhi,2024-04-14,League,WP Saha,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,3,141
+17,2022,Jaipur,2022-04-25,League,AR Patel,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,runs,70,164
+18,2021,Bengaluru,2021-04-24,League,H Klaasen,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,7,147
+19,2021,Jaipur,2021-04-21,League,RG Sharma,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,53,185
+20,2023,Ahmedabad,2023-04-11,League,YBK Jaiswal,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,runs,11,145
+21,2023,Ahmedabad,2023-04-12,League,V Kohli,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,31,197
+22,2022,Hyderabad,2022-04-28,League,KL Rahul,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,bat,Lucknow Super Giants,runs,36,190
+23,2021,Jaipur,2021-04-21,League,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Punjab Kings,wickets,3,167
+24,2024,Hyderabad,2024-04-15,League,Shubman Gill,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,Punjab Kings,Gujarat Titans,bat,Gujarat Titans,runs,19,142
+25,2021,Ahmedabad,2021-04-12,League,S Dhawan,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,runs,59,144
+26,2021,Chennai,2021-04-13,League,Kuldeep Yadav,"MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,Delhi Capitals,Gujarat Titans,bat,Delhi Capitals,wickets,6,133
+27,2021,Jaipur,2021-04-16,League,J Fraser-McGurk,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4,121
+28,2023,Mumbai,2023-04-24,League,Arshdeep Singh,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,runs,12,176
+29,2022,Mumbai,2022-04-25,League,KL Rahul,"Wankhede Stadium, Mumbai",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,runs,19,184
+30,2022,Ahmedabad,2022-04-20,League,MP Stoinis,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Lucknow Super Giants,wickets,2,165
+31,2024,Ahmedabad,2024-04-23,League,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,runs,56,147
+32,2023,Chennai,2023-04-28,League,WP Saha,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,5,154
+33,2022,Chennai,2022-04-15,League,CV Varun,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,37,173
+34,2021,Mumbai,2021-04-26,League,RR Pant,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,4,166
+35,2021,Jaipur,2021-04-24,League,J Fraser-McGurk,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,wickets,2,136
+36,2024,Chennai,2024-04-24,League,MS Dhoni,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,1,160
+37,2024,Kolkata,2024-04-14,League,SP Narine,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,26,180
+38,2021,Ahmedabad,2021-04-18,League,Mayank Yadav,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Lucknow Super Giants,runs,58,200
+39,2024,Ahmedabad,2024-04-23,League,JM Bairstow,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,wickets,9,147
+40,2021,Delhi,2021-04-24,League,Q de Kock,"Arun Jaitley Stadium, Delhi",Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,bat,Lucknow Super Giants,runs,24,173
+41,2022,Hyderabad,2022-04-26,League,B Kumar,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,7,147
+42,2024,Chennai,2024-04-22,League,CV Varun,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,field,Kolkata Knight Riders,tie,0,162
+43,2023,Chennai,2023-04-10,League,Prabhsimran Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,runs,40,191
+44,2023,Jaipur,2023-04-10,League,YS Chahal,"Sawai Mansingh Stadium, Jaipur",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,31,173
+45,2024,Delhi,2024-04-24,League,RA Jadeja,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,16,181
+46,2024,Chennai,2024-04-17,League,M Pathirana,"MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Chennai Super Kings,runs,13,172
+47,2022,Bengaluru,2022-04-10,League,Abhishek Sharma,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,17,168
+48,2022,Delhi,2022-04-11,League,RG Sharma,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,14,181
+49,2022,Hyderabad,2022-04-19,League,Shubman Gill,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,wickets,4,177
+50,2023,Chennai,2023-04-19,League,SV Samson,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,4,157
+51,2023,Ahmedabad,2023-04-13,League,GJ Maxwell,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,13,167
+52,2024,Chennai,2024-04-14,League,Arshdeep Singh,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,runs,11,185
+53,2022,Jaipur,2022-04-24,League,Ravi Bishnoi,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,6,156
+54,2024,Jaipur,2024-04-10,League,S Dhawan,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,runs,3,171
+55,2024,Delhi,2024-04-22,League,Kuldeep Yadav,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,wickets,2,134
+56,2024,Bengaluru,2024-04-28,League,TA Boult,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,runs,11,136
+57,2022,Ahmedabad,2022-04-26,League,MS Dhoni,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,wickets,4,156
+58,2023,Bengaluru,2023-04-12,League,TM Head,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,19,198
+59,2021,Ahmedabad,2021-04-14,League,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,3,150
+60,2021,Kolkata,2021-04-14,League,MS Dhoni,"Eden Gardens, Kolkata",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Chennai Super Kings,wickets,4,153
+61,2022,Bengaluru,2022-04-21,League,GJ Maxwell,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,runs,42,195
+62,2023,Kolkata,2023-04-26,League,HH Pandya,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,2,175
+63,2021,Chennai,2021-04-21,League,Mohammed Shami,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,Gujarat Titans,runs,25,166
+64,2024,Jaipur,2024-04-10,League,Shubman Gill,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,runs,54,200
+65,2022,Delhi,2022-04-12,League,MS Dhoni,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,3,122
+66,2023,Bengaluru,2023-04-23,League,SV Samson,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,41,206
+67,2023,Jaipur,2023-04-21,League,Prabhsimran Singh,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Punjab Kings,runs,28,192
+68,2024,Kolkata,2024-04-18,League,H Klaasen,"Eden Gardens, Kolkata",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,13,156
+69,2023,Bengaluru,2023-04-17,League,B Kumar,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,bat,Sunrisers Hyderabad,wickets,2,147
+70,2024,Delhi,2024-04-21,League,S Dhawan,"Arun Jaitley Stadium, Delhi",Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,runs,30,186
+71,2023,Delhi,2023-04-14,League,JJ Bumrah,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,Mumbai Indians,wickets,8,76
+72,2023,Mumbai,2023-04-26,League,JJ Bumrah,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,155
+73,2022,Hyderabad,2022-04-28,League,SS Iyer,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,runs,8,188
+74,2023,Mumbai,2023-04-12,League,YBK Jaiswal,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,165
+75,2024,Kolkata,2024-04-27,League,PJ Cummins,"Eden Gardens, Kolkata",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,46,203
+76,2022,Mumbai,2022-04-17,League,TA Boult,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,49,182
+77,2024,Jaipur,2024-04-22,League,Mohammed Siraj,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,33,173
+78,2021,Hyderabad,2021-04-26,League,Kuldeep Yadav,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,wickets,1,158
+79,2024,Mumbai,2024-04-11,League,PD Salt,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,3,187
+80,2024,Bengaluru,2024-04-24,League,F du Plessis,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5,173
+81,2023,Hyderabad,2023-04-14,League,MP Stoinis,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Delhi Capitals,Delhi Capitals,bat,Lucknow Super Giants,wickets,6,144
+82,2024,Bengaluru,2024-04-10,League,Kuldeep Yadav,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,wickets,5,158
+83,2021,Mumbai,2021-04-17,League,JJ Bumrah,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,2,132
+84,2021,Bengaluru,2021-04-24,League,MP Stoinis,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,runs,7,155
+85,2024,Bengaluru,2024-04-17,League,JJ Bumrah,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,10,164
+86,2023,Bengaluru,2023-04-11,League,Prabhsimran Singh,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,wickets,4,132
+87,2021,Bengaluru,2021-04-21,League,YS Chahal,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Rajasthan Royals,wickets,1,164
+88,2022,Delhi,2022-04-22,League,SA Yadav,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,34,179
+89,2023,Delhi,2023-04-18,League,Abhishek Sharma,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,wickets,6,144
+90,2022,Delhi,2022-04-15,League,YS Chahal,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,0,145
+91,2024,Chennai,2024-04-28,League,Ravi Bishnoi,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,field,Lucknow Super Giants,wickets,5,128
+92,2024,Mumbai,2024-04-24,League,TM Head,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1,129
+93,2024,Bengaluru,2024-04-16,League,DA Warner,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,1,158
+94,2024,Hyderabad,2024-04-18,League,V Kohli,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bangalore,runs,1,170
+95,2021,Hyderabad,2021-04-12,League,RM Patidar,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,6,174
+96,2024,Hyderabad,2024-04-28,League,MP Stoinis,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,Lucknow Super Giants,runs,18,171
+97,2022,Chennai,2022-04-12,League,GJ Maxwell,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6,147
+98,2024,Mumbai,2024-04-15,League,Ravi Bishnoi,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,bat,Lucknow Super Giants,wickets,6,154
+99,2023,Bengaluru,2023-04-26,League,SP Narine,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,4,132
+100,2024,Ahmedabad,2024-04-12,League,F du Plessis,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,24,192
+101,2021,Bengaluru,2021-04-14,League,S Dube,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5,93
+102,2023,Ahmedabad,2023-04-12,League,HH Pandya,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,5,182
+103,2023,Kolkata,2023-04-20,League,Mayank Yadav,"Eden Gardens, Kolkata",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,bat,Lucknow Super Giants,wickets,9,163
+104,2021,Bengaluru,2021-04-20,League,MP Stoinis,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,2,137
+105,2021,Bengaluru,2021-04-17,League,F du Plessis,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7,155
+106,2022,Mumbai,2022-04-20,League,Mayank Yadav,"Wankhede Stadium, Mumbai",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Lucknow Super Giants,runs,2,185
+107,2021,Mumbai,2021-04-18,League,YS Chahal,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,157
+108,2024,Mumbai,2024-04-24,League,Prabhsimran Singh,"Wankhede Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,runs,15,187
+109,2024,Kolkata,2024-04-16,League,K Rabada,"Eden Gardens, Kolkata",Gujarat Titans,Punjab Kings,Gujarat Titans,bat,Punjab Kings,wickets,4,150
+110,2022,Mumbai,2022-04-23,League,B Sai Sudharsan,"Wankhede Stadium, Mumbai",Gujarat Titans,Delhi Capitals,Delhi Capitals,bat,Gujarat Titans,wickets,6,166
+111,2022,Bengaluru,2022-04-19,League,GJ Maxwell,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,field,Royal Challengers Bangalore,runs,40,171
+112,2023,Mumbai,2023-04-22,League,Kuldeep Yadav,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,runs,5,155
+113,2022,Hyderabad,2022-04-14,League,JJ Bumrah,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7,103
+114,2021,Mumbai,2021-04-28,League,S Dhawan,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,runs,68,159
+115,2023,Bengaluru,2023-04-21,League,Mayank Yadav,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,bat,Lucknow Super Giants,wickets,7,149
+116,2022,Ahmedabad,2022-04-14,League,K Rabada,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,wickets,3,140
+117,2023,Chennai,2023-04-26,League,SP Narine,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,150
+118,2021,Delhi,2021-04-15,League,PJ Cummins,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,3,163
+119,2024,Chennai,2024-04-19,League,AR Patel,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Gujarat Titans,Gujarat Titans,bat,Delhi Capitals,wickets,7,175
+120,2024,Bengaluru,2024-04-18,League,HH Pandya,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,runs,53,191
